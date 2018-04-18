@@ -30,3 +30,5 @@ Desktop.ini
 $RECYCLE.BIN/
 Thumbs.db
 ehthumbs.db
+
+dist/
