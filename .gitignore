@@ -32,3 +32,4 @@ Thumbs.db
 ehthumbs.db
 
 dist/
+.ipynb_checkpoints/
